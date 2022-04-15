@@ -12,9 +12,6 @@ How to use :
 4. just waiting, if the bot is ready, it will send a message in private chat on IRC
 
 
-join my forum : 
-https://ditsec.com
-
 join my room :
 server  : irc.planetwork.co.id
 channel : #DarkIT
